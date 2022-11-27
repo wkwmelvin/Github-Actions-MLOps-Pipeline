@@ -26,14 +26,14 @@ A bike rental company wants to develop an application that allows customers to r
 
 ## The Web Application:
 <p align="center">
-  <img src="https://github.com/wkwmelvin/devops-show-tell/blob/main/home.png">
+  <img src="home.png">
 </p>
 <p align="justify">
   <em>Figure 1: The user interface for bike rentals. </em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/wkwmelvin/devops-show-tell/blob/main/confirmation_page.png">
+  <img src="confirmation_page.png">
 </p>
 <p align="justify">
   <em>Figure 2: The bike rental confirmation page. </em>
@@ -42,7 +42,7 @@ A bike rental company wants to develop an application that allows customers to r
 
 ## CI/CD Workflow
 <p align="center">
-  <img src="https://github.com/wkwmelvin/devops-show-tell/blob/main/workflow.png">
+  <img src="workflow.png">
 </p>
 <p align="justify">
   <em>Figure 3: Workflow of the CI/CD pipeline. </em>
